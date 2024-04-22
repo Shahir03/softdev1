@@ -9,7 +9,7 @@ double earnings= 878.23;
 
 System.out.println(name + " works as a " + job);
 System.out.println(" He is " + age + "years old");
-System.out.println("He earns " + " earnings + "after tax");
+System.out.println("He earns " + " earnings + "after tax.");
 
 
 
